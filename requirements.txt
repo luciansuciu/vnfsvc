@@ -1,4 +1,4 @@
 ncclient>=0.4.3
 paramiko>=1.15.2
 pbr>=0.10.7
-pexepct>=3.1
+pexpect>=3.1
